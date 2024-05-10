@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name">Is internet working</string>
+    <string name="loading">Wait...</string>
+    <!--    <string name="ins_pubg_in">Install BGMI</string>-->
+<!--    <string name="uni_pubg_in">Uninstall BGMI</string>-->
+</resources>
